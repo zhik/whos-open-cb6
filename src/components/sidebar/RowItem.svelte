@@ -8,21 +8,21 @@
         selectedItem.select(item, $mapObject, item.coordinates)
     }
 
-    $: pickup = item['Pickup Offered'].toLowerCase().includes('yes')
-    $: delivery = item['Delivery Offered'].toLowerCase().includes('yes')
+    // $: pickup = item['Pickup Offered'].toLowerCase().includes('yes')
+    // $: delivery = item['Delivery Offered'].toLowerCase().includes('yes')
 </script>
 
 <div class="item">
     <a class="link" role="listitem" href="#" on:click={() => selectItem(item)}>
         <p class="is-6 subtitle is-marginless notranslate" translate="no">{item.Name}</p>
-        <div class="icons">
-            {#if pickup}
-                <MaterialIcon icon="local_mall" alt="Pickup Offered"/>
-            {/if}
-            {#if delivery}
-                <MaterialIcon icon="moped" alt="Delivery Offered"/>
-            {/if}
-        </div>
+<!--        <div class="icons">-->
+<!--            {#if pickup}-->
+<!--                <MaterialIcon icon="local_mall" alt="Pickup Offered"/>-->
+<!--            {/if}-->
+<!--            {#if delivery}-->
+<!--                <MaterialIcon icon="moped" alt="Delivery Offered"/>-->
+<!--            {/if}-->
+<!--        </div>-->
     </a>
     <img class="category-icon" src="./icons/{item.icon}" style="opacity: {item._closed ? 0.5 : 1}"/>
 </div>

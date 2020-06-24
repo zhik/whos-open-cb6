@@ -7,9 +7,10 @@
     export let icon = 'indeterminate_check_box'
     export let type = 'text'
 
+
 </script>
 
-{#if (url && url.trim()) || text}
+{#if url.trim() || text.trim()}
     {#if type === 'email'}
         <a href="mailto:{text}">
             <p class="info">
@@ -22,13 +23,13 @@
                 <MaterialIcon icon={icon} alt="Phone Number"/>{text}
             </p>
         </a>
-    {:else if type === 'website'}
+    {:else if type === 'website' && url.trim()}
         <a target="_blank" href="{getValidUrl(url)}">
             <p class="info">
                 <MaterialIcon icon={icon} alt="Website"/>{text}
             </p>
         </a>
-    {:else}
+    {:else if text !== 'Website/Instagram'}
         <p class="info">
             <MaterialIcon icon={icon}/>{text}
         </p>

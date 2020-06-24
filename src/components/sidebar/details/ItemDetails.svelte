@@ -2,7 +2,7 @@
     import {selectedItem} from '../../../stores'
     import MarkdownField from './MarkdownField.svelte'
     import ItemDetailsInfo from './ItemDetailsInfo.svelte'
-    import PickupDelivery from './PickupDelivery.svelte'
+    // import PickupDelivery from './PickupDelivery.svelte'
     import LastUpdated from './LastUpdated.svelte'
     import Status from './Status.svelte'
     import MaterialIcon from '../../MaterialIcon.svelte'
@@ -46,23 +46,20 @@
             {/if}
         </div>
 
-        <ItemDetailsInfo text={item.Email} icon="email" type="email"/>
         <ItemDetailsInfo text={item.Phone} icon="local_phone" type="phone"/>
         <ItemDetailsInfo url={item['Website/Social Media']} text="Website/Instagram" icon="public" type="website"/>
-        <ItemDetailsInfo url={item.Donate} text="Donate" icon="card_giftcard" type="website"/>
 
         <MarkdownField title="Hours" content={item.Hours}/>
-        <MarkdownField title="Special Accommodation Hours" content={item['Special Accommodation Hours']}/>
-<!--        <MarkdownField title="Notes" content={item.Notes}/>-->
+        <MarkdownField title="Notes" content={item.Notes}/>
         <hr>
 
-        <PickupDelivery
-                pickup={item['Pickup Offered']}
-                delivery={item['Delivery Offered']}
-                notes={item['Delivery/Pickup Notes']}
-        />
+<!--        <PickupDelivery-->
+<!--                pickup={item['Pickup Offered']}-->
+<!--                delivery={item['Delivery Offered']}-->
+<!--                notes={item['Delivery/Pickup Notes']}-->
+<!--        />-->
 
-        <LastUpdated lastUpdated={item['Last Updated']} source={item['Source']}/>
+        <LastUpdated lastUpdated={item['Last Updated']} source=''/>
 
     </div>
 </div>

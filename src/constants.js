@@ -1,33 +1,16 @@
 export const categoryGroups = [
-    'Grocery', 'Food & Beverage', 'Health & Wellness', 'Shops & Services'
+    'Food & Beverage', 'Laundry/Cleaning', 'Health & Wellness', 'Shops & Services'
 ]
 
 export const styles = [
     {
         //style for defaults
-        group: 'Grocery',
+        group: 'Food & Beverage',
         categoryName: 'Grocery Store',
         subcategoryName: null,
         fillColor: '#1aa139',
         strokeColor: '#000',
         icon: 'grocery.png'
-    },
-    {
-        //styles for rows with subcategories
-        group: 'Grocery',
-        categoryName: 'Grocery Store',
-        subcategoryName: 'supermarket',
-        fillColor: '#1aa139',
-        strokeColor: '#000',
-        icon: 'supermarket.png'
-    },
-    {
-        group: 'Grocery',
-        categoryName: 'Bakery',
-        subcategoryName: null,
-        fillColor: '#69b657',
-        strokeColor: '#000',
-        icon: 'bread.png'
     },
     {
         group: 'Food & Beverage',
@@ -39,23 +22,39 @@ export const styles = [
     },
     {
         group: 'Food & Beverage',
-        categoryName: 'Coffee Shop',
-        subcategoryName: null,
+        categoryName: 'Restaurant',
+        subcategoryName: 'Cafe',
         fillColor: '#1eb0a9',
         strokeColor: '#000',
         icon: 'coffee.png'
     },
     {
         group: 'Food & Beverage',
-        categoryName: 'Bar',
-        subcategoryName: null,
+        categoryName: 'Restaurant',
+        subcategoryName: 'Bar',
         fillColor: '#1eb0a9',
         strokeColor: '#000',
         icon: 'bar.png'
     },
     {
         group: 'Health & Wellness',
-        categoryName: 'Health and Wellness',
+        categoryName: 'Medical',
+        subcategoryName: null,
+        fillColor: '#cc1619',
+        strokeColor: '#000',
+        icon: 'firstaid.png'
+    },
+    {
+        group: 'Health & Wellness',
+        categoryName: 'Eye Care',
+        subcategoryName: null,
+        fillColor: '#cc1619',
+        strokeColor: '#000',
+        icon: 'firstaid.png'
+    },
+    {
+        group: 'Health & Wellness',
+        categoryName: 'Physical Care',
         subcategoryName: null,
         fillColor: '#cc1619',
         strokeColor: '#000',
@@ -70,24 +69,24 @@ export const styles = [
         icon: 'drugstore.png'
     },
     {
-        group: 'Shops & Services',
-        categoryName: 'Laundromat',
+        group: 'Laundry/Cleaning',
+        categoryName: 'Laundry',
         subcategoryName: null,
         fillColor: '#ffc01f',
         strokeColor: '#000',
         icon: 'laundromat.png'
     },
     {
-        group: 'Shops & Services',
-        categoryName: 'Bike Shops',
+        group: 'Laundry/Cleaning',
+        categoryName: 'Dry Cleaning',
         subcategoryName: null,
-        fillColor: '#508eba',
-        strokeColor: '#090909',
-        icon: 'bike.png'
+        fillColor: '#ffc01f',
+        strokeColor: '#000',
+        icon: 'clothes.png'
     },
     {
         group: 'Shops & Services',
-        categoryName: 'Hardware Store',
+        categoryName: 'Hardware',
         subcategoryName: null,
         fillColor: '#508eba',
         strokeColor: '#090909',
@@ -95,7 +94,7 @@ export const styles = [
     },
     {
         group: 'Shops & Services',
-        categoryName: 'Pet Supplies',
+        categoryName: 'Pets',
         subcategoryName: null,
         fillColor: '#508eba',
         strokeColor: '#090909',
@@ -103,19 +102,11 @@ export const styles = [
     },
     {
         group: 'Shops & Services',
-        categoryName: 'Shipping Services/Post Office',
+        categoryName: 'Art',
         subcategoryName: null,
         fillColor: '#508eba',
         strokeColor: '#090909',
-        icon: 'truck.png'
-    },
-    {
-        group: 'Shops & Services',
-        categoryName: 'Liquor Store/Distillery',
-        subcategoryName: null,
-        fillColor: '#508eba',
-        strokeColor: '#090909',
-        icon: 'liquor.png'
+        icon: 'art.png'
     },
     {
         group: '',

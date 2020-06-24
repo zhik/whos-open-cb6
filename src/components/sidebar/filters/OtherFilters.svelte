@@ -14,7 +14,7 @@
 </button>
 <div class={opened ? '' : 'hidden'}>
     <OpenedFilter/>
-    <PickupDeliveryFilter/>
+<!--    <PickupDeliveryFilter/>-->
 </div>
 
 <style>
