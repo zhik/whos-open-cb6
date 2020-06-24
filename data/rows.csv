@@ -1,249 +1,249 @@
-"Name","id","Phone","Website/Social Media","Neighborhood","Category","Latitude","Longitude","Address","Status","Sub-Category","Hours","Created time","Last Updated","Notes"
-"Amata",1690,"(212) 308-0830","https://amatanyc.com/","50th - 59th Streets","Restaurant",40.759431,-73.967082,"209 East 56th Street","Open","Italian","
-","2020-06-24T14:20:50.000Z","2020-03-31T15:01:00.000Z",
-"Bistro Vendome",1807,"(212) 935-9100","http://bistrovendomenyc.com/","50th - 59th Streets","Restaurant",40.75893,-73.961857,"405 East 58th Street","Open","French","3 PM-8 PM, Mondays-Saturdays
-","2020-06-24T14:21:37.000Z","2020-03-31T15:01:00.000Z",
-"Jubilee Restaurant",1808,,"https://jubilee.nyc/","50th - 59th Streets","Restaurant",40.755151,-73.964919,"948 1st Avenue","Open","French","
-","2020-06-24T14:21:37.000Z","2020-03-31T15:01:00.000Z",
-"Morso",1809,"(212) 759-2706","https://morso-nyc.com/","50th - 59th Streets","Restaurant",40.758705,-73.96066,"420 East 59th Street","Open","Italian","2 PM-8 PM
-","2020-06-24T14:21:37.000Z","2020-03-31T16:05:00.000Z",
-"Bloom's Tavern",1810,"Call 212-308-9400 or text 646-221-7654","https://bloomsnyc.com/","50th - 59th Streets","Restaurant",40.760469,-73.966587,"208 East 58th Street","Open","American/Irish","4 PM - 9 PM, Mondays-Wednesdays; 12 PM - 9 PM, Thursdays-Sundays
-","2020-06-24T14:21:37.000Z","2020-03-31T16:33:00.000Z",
-"Chola",1811,"(212) 688-4619","http://cholany.com/","50th - 59th Streets","Restaurant",40.760159,-73.965824,"232 East 58th Street","Open","Indian","
-","2020-06-24T14:21:37.000Z","2020-03-31T16:37:00.000Z",
-"Empire Steak House",1812,"(212) 582-6900","https://www.empiresteakhousenyc.com/location/empire-steak-house-midtown-east/","50th - 59th Streets","Restaurant",40.756255,-73.971184,"151 East 50th Street","Open","Steakhouse","
-","2020-06-24T14:21:37.000Z","2020-03-31T16:39:00.000Z",
-"La Villetta",1813,"(212) 829-0003","https://www.lavillettanyc.com/","50th - 59th Streets","Restaurant",40.754909,-73.965041,"398 East 52nd Street","Open","Italian","
-","2020-06-24T14:21:37.000Z","2020-03-31T16:47:00.000Z",
-"Land of Plenty",1814,"(212) 308-8788","http://www.landofplenty58.com/","50th - 59th Streets","Restaurant",40.760479,-73.966715,"204 East 58th Street","Open","Chinese","
-","2020-06-24T14:21:37.000Z","2020-03-31T16:50:00.000Z",
-"New York Lunchonette",1815,"(212) 838-0165","http://nyluncheonette.dinehere.us/?fbclid=IwAR0dAVrFXDws_HYGFS2B2j6cuAo1P08rYVFqenJeMIIFvuR","50th - 59th Streets","Restaurant",40.756433,-73.971725,"135 East 50th Street","Open","American","
-","2020-06-24T14:21:37.000Z","2020-03-31T16:52:00.000Z",
-"Yara",1816,"(646) 476-7592","https://www.yaranyc.com/","50th - 59th Streets","Restaurant",40.756562,-73.966117,"319 East 53rd Street","Open","Lebanese","
-","2020-06-24T14:21:37.000Z","2020-03-31T16:58:00.000Z",
-"The Capital Grille",1817,"(212) 953-2000","https://www.grandcentralpartnership.nyc/wp-content/uploads/2020/03/Capital-grille-Take-Out-Menu.pdf","40th-49th Streets","Restaurant",40.751283,-73.974928,"155 East 42nd Street","Open","Steakhouse","
-","2020-06-24T14:21:37.000Z","2020-03-31T17:40:00.000Z",
-"Sticky's",1818,"(646) 490-5856","https://www.stickys.com/","30th-39th Streets","Restaurant",40.745051,-73.978944,"484 3rd Avenue","Open","American","Find hours here: <https://www.stickys.com/covid-19/>
-","2020-06-24T14:21:37.000Z","2020-03-31T17:44:00.000Z",
-"Bite",1819,"(212) 677-3123","https://www.bitenyc.com/","14th-19th Streets","Restaurant",40.733144,-73.986164,"211 East 14th Street","Open","Sandwich","
-","2020-06-24T14:21:37.000Z","2020-03-31T19:08:00.000Z",
-"Ess-a-Bagel",1820,"(212) 980-1010","https://www.ess-a-bagel.com/","50th - 59th Streets","Restaurant",40.756157,-73.970175,"831 3rd Avenue","Open","Sandwich","
-","2020-06-24T14:21:37.000Z","2020-04-01T22:23:00.000Z",
-"Hillstone",1821,"(212) 888-3828","https://hillstonerestaurant.com/locations/nyc-midtown/","50th - 59th Streets","Restaurant",40.758407,-73.969943,"888 3rd Avenue","Open","American","
-","2020-06-24T14:21:37.000Z","2020-04-01T22:28:00.000Z",
-"Little Roma Pizza",1822,"(212) 813-9300","http://littleromapizzanyc.com/","50th - 59th Streets","Restaurant",40.755928,-73.967445,"982 Second Avenue","Open","Italian","
-","2020-06-24T14:21:37.000Z","2020-04-01T22:31:00.000Z",
-"Buttercup Bake Shop",1823,"(212) 350-4144","https://www.buttercupbakeshop.com/","50th - 59th Streets","Restaurant",40.755953,-73.968091,"973 2nd Avenue","Open","American","
-","2020-06-24T14:21:37.000Z","2020-04-01T22:34:00.000Z",
-"Libretto's",1824,"(212) 213-6445","https://www.librettospizzany.com/","30th-39th Streets","Restaurant",40.747319,-73.977328,"546 3rd Avenue","Open","Italian","
-","2020-06-24T14:21:37.000Z","2020-04-01T23:38:00.000Z",
-"Patrizia's of Manhattan",1825,"(212) 597-9999","https://www.patrizias.com/location/manhattan/#menus/","20th-29th Streets","Restaurant",40.739802,-73.97883,"462-466 2nd Avenue","Open","Italian","
-","2020-06-24T14:21:37.000Z","2020-04-02T02:05:00.000Z",
-"Poulette",1826,"(646) 708-0199","https://poulettenyc.com/pages/locations","40th-49th Streets","Restaurant",40.753938,-73.96864,"304 East 49th Street","Open","French","
-","2020-06-24T14:21:37.000Z","2020-04-02T20:19:00.000Z",
-"La Vera",1827,"(212) 213-2222","http://laverapizzerianyc.com/","20th-29th Streets","Restaurant",40.740665,-73.98215,"350 3rd Avenue","Open","Italian","
-","2020-06-24T14:21:37.000Z","2020-04-04T01:12:00.000Z",
-"Alcala",1828,"(212) 370-1866","alcalanyc.com","40th-49th Streets","Restaurant",40.75114,-73.971815,"246 East 44th Street","Open","Spanish","
-","2020-06-24T14:21:37.000Z","2020-04-04T01:15:00.000Z",
-"Asiam Thai Cuisine",1829,"212-228-7880, 212-228-7833","http://www.asiamny.com/","14th-19th Streets","Restaurant",40.732249,-73.982291,"259 1st Avenue","Open","Thai","
-","2020-06-24T14:21:37.000Z","2020-04-06T13:37:00.000Z",
-"Bagel Boss",1830,"(212) 388-9292","https://www.bagelboss.com/","14th-19th Streets","Restaurant",40.732361,-73.982175,"263 1st Avenue","Open","Sandwich","
-","2020-06-24T14:21:37.000Z","2020-04-06T13:39:00.000Z",
-"Bagel Boss",1831,"(646) 368-1880 or (646) 368-1640","https://www.bagelboss.com/","30th-39th Streets","Restaurant",40.747271,-73.977363,"544 3rd Avenue","Open","Sandwich","
-","2020-06-24T14:21:37.000Z","2020-04-06T13:42:00.000Z",
-"Cooper Town Diner",1832,"(732) 641-8306","https://menupages.com/coopertown-diner/339-1st-ave-new-york","14th-19th Streets","Restaurant",40.734926,-73.980339,"339 1st Avenue","Open","American","
-","2020-06-24T14:21:37.000Z","2020-04-06T13:44:00.000Z",
-"Tal Bagels",1833,"(212) 387-3100","https://www.talbagelsny.com/","20th-29th Streets","Restaurant",40.735615,-73.979852,"357 1st Avenue","Open","American","
-","2020-06-24T14:21:37.000Z","2020-04-06T13:44:00.000Z",
-"Ess-a-Bagel",1834,"(212) 387-3100","https://essabagel.com/","14th-19th Streets","Restaurant",40.734089,-73.980127,"324 1st Avenue","Open","Sandwich","
-","2020-06-24T14:21:37.000Z","2020-04-06T13:54:00.000Z",
-"Orion Diner and Grill",1835,"(212) 510-8733","https://www.oriondiner.com/","20th-29th Streets","Restaurant",40.737836,-73.981304,"395 2nd Avenue","Open","American","
-","2020-06-24T14:21:37.000Z","2020-04-06T13:58:00.000Z",
-"Posto",1836,"(212) 716-1200","https://www.nycthincrust.com/location/posto-thin-crust/","14th-19th Streets","Restaurant",40.73483,-73.982804,"310 2nd Avenue","Open","Italian","
-","2020-06-24T14:21:37.000Z","2020-04-06T14:02:00.000Z",
-"Gramercy Kitchen",1837,"(917) 265-8884","https://www.gramercykitchen.nyc/","14th-19th Streets","Restaurant",40.735216,-73.98612,"184 3rd Avenue","Open","American","
-","2020-06-24T14:21:37.000Z","2020-04-06T14:09:00.000Z",
-"Lamarca",1838,"(212) 674-6363","https://menupages.com/lamarca/161-e-22nd-st-new-york","20th-29th Streets","Restaurant",40.738381,-73.983833,"161 East 22nd Street","Open","Italian","
-","2020-06-24T14:21:37.000Z","2020-04-06T14:11:00.000Z",
-"Barfly",1839,"(212)-473-9660","https://barflyny.com/","20th-29th Streets","Restaurant",40.737197,-73.984694,"244 3rd Avenue","Open","American","
-","2020-06-24T14:21:37.000Z","2020-04-06T14:12:00.000Z",
-"Lunetta Pizza",1840,"(212) 432-5200","http://lunettanyc.com/","20th-29th Streets","Restaurant",40.736944,-73.984164,"245 3rd Avenue","Open","Italian","
-","2020-06-24T14:21:37.000Z","2020-04-06T14:14:00.000Z",
-"Taqueria Gramercy",1841,"(862) 304-4547","https://www.seamless.com/menu/taqueria-gramercy-218-3rd-ave-new-york/965443?utm_source=google&utm_medium=cpc&utm_campaign=New%2BYork%2C%2BNY%2B%7C%2BNew%2BYork%2C%2BNY%2B%7C%2BRestaurants&utm_term=%2Btaqueria%20%2Bgramercy&efkwid=533492468061&gclid=EAIaIQobChMIw_qC5_zT6AIVBqSzCh2yUA60EAAYASAAEgIVCPD_BwE&gclsrc=aw.ds","14th-19th Streets","Restaurant",40.736292,-73.985316,"218 3rd Avenue","Open","Mexican","
-","2020-06-24T14:21:37.000Z","2020-04-06T14:17:00.000Z",
-"Gramercy Bagels",1842,"(212) 388-0080","https://gramercybagel.com/","20th-29th Streets","Restaurant",40.737197,-73.984694,"246 3rd Avenue","Open","Sandwich","
-","2020-06-24T14:21:37.000Z","2020-04-06T14:17:00.000Z",
-"Jack's Sliders and Sushi",1843,"(212) 466-2828","https://www.jacksny.com/","14th-19th Streets","Restaurant",40.734717,-73.985843,"171 3rd Avenue","Open","Sushi","12 PM-7:30 PM Daily
-","2020-06-24T14:21:37.000Z","2020-04-06T14:26:00.000Z",
-"Sunburst Espresso Bar",1844,"(212) 674-1702","https://www.sunburstespressobar.com/","14th-19th Streets","Restaurant",40.736087,-73.985554,"206 3rd Avenue","Open","American","
-","2020-06-24T14:21:37.000Z","2020-04-06T14:28:00.000Z",
-"Tivoli Cafe",1845,"(212) 933-0629","https://www.tivolicafenyc.com/","20th-29th Streets","Restaurant",40.738168,-73.983345,"283 3rd Avenue","Open","American","7 AM-11:30 PM Daily
-","2020-06-24T14:21:37.000Z","2020-04-06T14:30:00.000Z",
-"BKK Eatery",1846,"(212) 213-3317","https://www.bkkeaterynyc.com/","30th-39th Streets","Restaurant",40.746004,-73.979503,"138 East 34th Street","Open","Thai","
-","2020-06-24T14:21:37.000Z","2020-04-06T14:48:00.000Z",
-"Bravest",1847,"(212) 683-3766","http://www.thebravestnyc.com/","30th-39th Streets","Restaurant",40.747075,-73.973848,"700 2nd Avenue","Open","American","
-","2020-06-24T14:21:37.000Z","2020-04-06T14:50:00.000Z",
-"Duke's",1848,"(212) 949-5400","https://www.dukesnyc.com/location/murray-hill/","30th-39th Streets","Restaurant",40.748073,-73.976835,"560 3rd Avenue","Open","American","
-","2020-06-24T14:21:37.000Z","2020-04-06T14:54:00.000Z",
-"Daniel's Bagel",1849,"(212) 972-9733","https://danielsbagelsnyc.com/41052","30th-39th Streets","Restaurant",40.74784,-73.976229,"569 3rd Avenue","Open","Sandwich","
-","2020-06-24T14:21:37.000Z","2020-04-06T14:56:00.000Z",
-"Hill and Bay",1850,"(212) 245-5554","https://www.hillandbay.com/","30th-39th Streets","Restaurant",40.74351,-73.977173,"581 2nd Avenue","Open","American","
-","2020-06-24T14:21:37.000Z","2020-04-06T15:00:00.000Z",
-"Jackson Hole",1851,"(212) 679-3264","https://jacksonholeburgers.com/","30th-39th Streets","Restaurant",40.746144,-73.977485,"521 3rd Avenue","Open","American","
-","2020-06-24T14:21:37.000Z","2020-04-06T15:02:00.000Z",
-"Little Alley",1852,"(646) 998-3976","https://www.littlealley.nyc/","30th-39th Streets","Restaurant",40.747425,-73.977251,"550 3rd Avenue","Open","Shanghainese","
-","2020-06-24T14:21:37.000Z","2020-04-06T15:05:00.000Z",
-"Sarge's Deli and Diner",1853,"(212) 679-0442","https://sargesdeli.com/","30th-39th Streets","Restaurant",40.74737,-73.977291,"548 3rd Avenue","Open","American","12 PM-8 PM Daily
-","2020-06-24T14:21:37.000Z","2020-04-06T15:07:00.000Z",
-"Sophie's Cuban Cuisine",1854,"(212) 922-3576","https://www.sophiescuban.com/","40th-49th Streets","Restaurant",40.750447,-73.976425,"369 Lexington Avenue","Open","Cuban","
-","2020-06-24T14:21:37.000Z","2020-04-06T15:12:00.000Z",
-"Sophra Grill",1855,"(646) 609-2392","https://www.sophragrill.com/","30th-39th Streets","Restaurant",40.746584,-73.977051,"535 3rd Avenue","Open","Mediterranean","
-","2020-06-24T14:21:37.000Z","2020-04-06T15:14:00.000Z",
-"Tara Rose",1856,"(347) 265-6855","https://tararosenyc.com/","20th-29th Streets","Restaurant",40.741831,-73.981402,"384 3rd Avenue","Open","American","
-","2020-06-24T14:21:37.000Z","2020-04-06T15:17:00.000Z",
-"Tenho Ramen",1857,"(646) 781-9025","https://tenhoramen.com/","30th-39th Streets","Restaurant",40.747224,-73.977398,"542 3rd Avenue","Open","Japanese","
-","2020-06-24T14:21:37.000Z","2020-04-06T15:20:00.000Z",
-"Wattle Cafe",1858,"(646) 918-7042","https://www.wattlecafe.com/?gclid=EAIaIQobChMI1qbrso3U6AIViZ6zCh1IaQeLEAAYASAAEgLh9vD_BwE","30th-39th Streets","Restaurant",40.745077,-73.978297,"489 3rd Avenue","Open","Australian","
-","2020-06-24T14:21:37.000Z","2020-04-06T15:22:00.000Z",
-"Tudor City Steakhouse",1859," The Arsenal, Central Park, 830 Fifth Avenue, New York, NY 10065","http://tudorcitysteakhouse.com/","40th-49th Streets","Restaurant",40.749314,-73.969982,"45 Tudor City Place","Open","Steakhouse","5-9 PM Daily
-","2020-06-24T14:21:37.000Z","2020-04-07T18:27:00.000Z",
-"Baby Bo's Cantina",1860,"(212) 779-2656","http://babyboscantina.com/","30th-39th Streets","Restaurant",40.745134,-73.975985,"627 Second Avenue","Open","Mexican","
-","2020-06-24T14:21:37.000Z","2020-04-08T16:57:00.000Z",
-"Gemini Diner",1861,"(212) 532-2143","https://geminidiner.com/","30th-39th Streets","Restaurant",40.745443,-73.975759,"641 2nd Avenue","Open","American","7 AM-11:30 PM
-","2020-06-24T14:21:37.000Z","2020-04-08T17:31:00.000Z",
-"Pastafina's",1862,"(212) 251-0708","https://orderpastafinapizzany.com/","20th-29th Streets","Restaurant",40.741905,-73.981209,"388 3rd Avenue","Open","Italian","
-","2020-06-24T14:21:37.000Z","2020-04-08T21:58:00.000Z",
-"First Avenue Veterinary Hospital",1863,"(212) 674-0111","https://www.firstavenuevet.com/","14th-19th Streets","Pets",40.735434,-73.980011,"355 1st Avenue","Open",,"
-","2020-06-24T14:21:37.000Z","2020-04-10T14:35:00.000Z",
-"KMP Market",1864,"(212) 673-2430",,"14th-19th Streets","Restaurant",40.732592,-73.98204,"275 1st Avenue","Open","Deli","
-","2020-06-24T14:21:37.000Z","2020-04-10T14:40:00.000Z",
-"A's Organic Cleaners",1865,"(212) 475-0852",,"14th-19th Streets","Dry Cleaning",40.73243,-73.982125,"265 1st Avenue","Open",,"
-","2020-06-24T14:21:37.000Z","2020-04-10T15:33:00.000Z",
-"Berkely Sutton Cleaners",1866,"(212) 505-5557","https://www.berkelysutton.com/?gclid=EAIaIQobChMIr53g3Jre6AIVARgMCh1g4wohEAAYASAAEgJhV_D_BwE","14th-19th Streets","Dry Cleaning",40.734511,-73.979623,"334 1st Avenue","Open",,"
-","2020-06-24T14:21:37.000Z","2020-04-10T15:49:00.000Z",
-"Esquire Pharmacy",1867,"(212) 228-2260",,"14th-19th Streets","Pharmacy",40.732633,-73.981985,"277 1st Avenue","Open",,"
-","2020-06-24T14:21:37.000Z","2020-04-10T15:51:00.000Z",
-"Gracefully",1868,"(212) 260-1010",,"14th-19th Streets","Restaurant",40.734089,-73.980127,"320 1st Avenue","Open","Grocery","
-","2020-06-24T14:21:37.000Z","2020-04-10T15:53:00.000Z",
-"Laundry Land",1869,,,"14th-19th Streets","Laundry",40.734366,-73.980663,"325 1st Avenue","Open",,,"2020-06-24T14:21:37.000Z","2020-04-10T15:54:00.000Z",
-"Rite-Way Drugs",1870,"(212) 777-6864","http://www.ritewaydrugs.com/","20th-29th Streets","Pharmacy",40.736044,-73.979466,"369 1st Avenue","Open",,"
-","2020-06-24T14:21:37.000Z","2020-04-10T15:55:00.000Z",
-"C&S Mart",1871,"(212) 375-0214",,"20th-29th Streets","Restaurant",40.736195,-73.979457,"373 1st Avenue","Open","Bodega/Convenience Store","
-","2020-06-24T14:21:37.000Z","2020-04-10T15:59:00.000Z",
-"ProHealth Pharmacy",1872,"(212) 684-8300","http://prohealthny.com/","20th-29th Streets","Pharmacy",40.737645,-73.981792,"385 2nd Avenue","Open",,"
-","2020-06-24T14:21:37.000Z","2020-04-10T17:33:00.000Z",
-"Dreamland Deli",1873,,,"14th-19th Streets","Restaurant",40.735408,-73.983081,"325 2nd Avenue","Open","Deli",,"2020-06-24T14:21:37.000Z","2020-04-10T17:36:00.000Z",
-"Gramercy Food Market",1874,"(212) 777-2808",,"20th-29th Streets","Restaurant",40.737218,-73.980897,"384 2nd Avenue","Open","Deli","
-","2020-06-24T14:21:37.000Z","2020-04-10T17:38:00.000Z",
-"Alpine Cleaners",1875,"(212) 533-2865",,"14th-19th Streets","Dry Cleaning",40.736017,-73.984787,"205 3rd Avenue","Open",,"
-","2020-06-24T14:21:37.000Z","2020-04-10T17:45:00.000Z",
-"Carelabel",1876,"(212) 674-7030",,"14th-19th Streets","Dry Cleaning",40.736087,-73.985554,"212A 3rd Avenue","Open",,"
-","2020-06-24T14:21:37.000Z","2020-04-10T17:48:00.000Z",
-"Warshaw Hardware",1877,"(212) 475-5820","https://www.warshawhardware.com/","20th-29th Streets","Hardware",40.737283,-73.984612,"248 3rd Avenue","Open",,"
-","2020-06-24T14:21:37.000Z","2020-04-10T17:51:00.000Z",
-"Danny 2 Cleaners",1878,"(212) 777-3505",,"14th-19th Streets","Dry Cleaning",40.735046,-73.986313,"174 3rd Avenue","Open",,"
-","2020-06-24T14:21:37.000Z","2020-04-10T17:51:00.000Z",
-"West Side Market",1879,"(212) 254-0017","https://www.wmarketnyc.com/180-third-avenue/","14th-19th Streets","Restaurant",40.735046,-73.986313,"180 3rd Avenue","Open","Grocery","
-","2020-06-24T14:21:37.000Z","2020-04-10T17:56:00.000Z",
-"Canis Minor",1880,"(212) 228-4848",,"14th-19th Streets","Pets",40.736836,-73.984947,"238 3rd Avenue","Open",,"
-","2020-06-24T14:21:37.000Z","2020-04-10T18:14:00.000Z",
-"Chips Cleaners",1881,"(212) 473-3713",,"14th-19th Streets","Dry Cleaning",40.734316,-73.986057,"159 3rd Avenue","Open",,"
-","2020-06-24T14:21:37.000Z","2020-04-10T18:16:00.000Z",
-"David's Pharmacy",1882,"(212) 477-7788",,"14th-19th Streets","Pharmacy",40.736017,-73.984787,"205 3rd Avenue","Open",,"
-","2020-06-24T14:21:37.000Z","2020-04-10T18:17:00.000Z",
-"East Way Gourmet",1883,"(212) 260-3859",,"14th-19th Streets","Restaurant",40.734632,-73.985869,"169 3rd Avenue","Open","Grocery","
-","2020-06-24T14:21:37.000Z","2020-04-10T18:18:00.000Z",
-"Namu Deli & Grocery",1884,"(212) 228-9406",,"20th-29th Streets","Restaurant",40.737397,-73.98455,"252 3rd Avenue","Open","Deli","
-","2020-06-24T14:21:37.000Z","2020-04-10T18:20:00.000Z",
-"Prestige II Laundry",1885,"(646) 654-6913",,"14th-19th Streets","Laundry",40.734113,-73.981077,"351 East 18th Street","Open",,"
-","2020-06-24T14:21:37.000Z","2020-04-10T18:21:00.000Z",
-"Kalvig & Shorter Veterinary Associates",1886,,"http://www.kalvigandshorter.com/","30th-39th Streets","Pets",40.74953,-73.976907,"133 East 39th Street","Open",,,"2020-06-24T14:21:37.000Z","2020-04-10T18:41:00.000Z",
-"Pasteur Pharmacy",1887,"(212) 683-3838","https://pasteurshaving.com/","30th-39th Streets","Pharmacy",40.747616,-73.981929,"53 East 34th Street","Open",,"
-","2020-06-24T14:21:37.000Z","2020-04-10T18:42:00.000Z",
-"Park Avenue Tavern",1888,"(212) 867-4484","https://parkavenuetavern.com/","30th-39th Streets","Restaurant",40.75036,-73.978439,"99 Park Avenue","Open","American","
-","2020-06-24T14:21:37.000Z","2020-04-11T17:00:00.000Z",
-"Madison Restaurant",1889,"(212) 421-0948","https://www.madison1.com/","50th - 59th Streets","Restaurant",40.756084,-73.965118,"965 1st Avenue","Open","American","
-","2020-06-24T14:21:37.000Z","2020-04-16T01:00:00.000Z",
-"Health Source",1890,"(212) 310-0111","http://www.healthsourcepharmacy.com/index.php","50th - 59th Streets","Pharmacy",40.756692,-73.963722,"1000 1st Avenue","Open",,"Mon-Fri 8:30-8, Sat 10-7, Sun 11-6. Pharmacy is open 9 to 6 weekdays now, and 10 to 2 on Saturdays.
-","2020-06-24T14:21:37.000Z","2020-04-22T15:42:00.000Z","They have expanded their free delivery services, and in addition to prescription they are delivering groceries, over the counter medications, and various sundries that includes disinfectants.
+"Name","id","Last Updated","Phone","Website/Social Media","Neighborhood","Category","Latitude","Longitude","Address","Status","Sub-Category","Hours","Created time","Notes"
+"Amata",1690,"2020-03-31T15:01:00.000Z","(212) 308-0830","https://amatanyc.com/","50th - 59th Streets","Restaurant",40.759431,-73.967082,"209 East 56th Street","Open","Italian","
+","2020-06-24T14:20:50.000Z",
+"Bistro Vendome",1807,"2020-03-31T15:01:00.000Z","(212) 935-9100","http://bistrovendomenyc.com/","50th - 59th Streets","Restaurant",40.75893,-73.961857,"405 East 58th Street","Open","French","3 PM-8 PM, Mondays-Saturdays
+","2020-06-24T14:21:37.000Z",
+"Jubilee Restaurant",1808,"2020-03-31T15:01:00.000Z",,"https://jubilee.nyc/","50th - 59th Streets","Restaurant",40.755151,-73.964919,"948 1st Avenue","Open","French","
+","2020-06-24T14:21:37.000Z",
+"Morso",1809,"2020-03-31T16:05:00.000Z","(212) 759-2706","https://morso-nyc.com/","50th - 59th Streets","Restaurant",40.758705,-73.96066,"420 East 59th Street","Open","Italian","2 PM-8 PM
+","2020-06-24T14:21:37.000Z",
+"Bloom's Tavern",1810,"2020-03-31T16:33:00.000Z","Call 212-308-9400 or text 646-221-7654","https://bloomsnyc.com/","50th - 59th Streets","Restaurant",40.760469,-73.966587,"208 East 58th Street","Open","American/Irish","4 PM - 9 PM, Mondays-Wednesdays; 12 PM - 9 PM, Thursdays-Sundays
+","2020-06-24T14:21:37.000Z",
+"Chola",1811,"2020-03-31T16:37:00.000Z","(212) 688-4619","http://cholany.com/","50th - 59th Streets","Restaurant",40.760159,-73.965824,"232 East 58th Street","Open","Indian","
+","2020-06-24T14:21:37.000Z",
+"Empire Steak House",1812,"2020-03-31T16:39:00.000Z","(212) 582-6900","https://www.empiresteakhousenyc.com/location/empire-steak-house-midtown-east/","50th - 59th Streets","Restaurant",40.756255,-73.971184,"151 East 50th Street","Open","Steakhouse","
+","2020-06-24T14:21:37.000Z",
+"La Villetta",1813,"2020-03-31T16:47:00.000Z","(212) 829-0003","https://www.lavillettanyc.com/","50th - 59th Streets","Restaurant",40.754909,-73.965041,"398 East 52nd Street","Open","Italian","
+","2020-06-24T14:21:37.000Z",
+"Land of Plenty",1814,"2020-03-31T16:50:00.000Z","(212) 308-8788","http://www.landofplenty58.com/","50th - 59th Streets","Restaurant",40.760479,-73.966715,"204 East 58th Street","Open","Chinese","
+","2020-06-24T14:21:37.000Z",
+"New York Lunchonette",1815,"2020-03-31T16:52:00.000Z","(212) 838-0165","http://nyluncheonette.dinehere.us/?fbclid=IwAR0dAVrFXDws_HYGFS2B2j6cuAo1P08rYVFqenJeMIIFvuR","50th - 59th Streets","Restaurant",40.756433,-73.971725,"135 East 50th Street","Open","American","
+","2020-06-24T14:21:37.000Z",
+"Yara",1816,"2020-03-31T16:58:00.000Z","(646) 476-7592","https://www.yaranyc.com/","50th - 59th Streets","Restaurant",40.756562,-73.966117,"319 East 53rd Street","Open","Lebanese","
+","2020-06-24T14:21:37.000Z",
+"The Capital Grille",1817,"2020-03-31T17:40:00.000Z","(212) 953-2000","https://www.grandcentralpartnership.nyc/wp-content/uploads/2020/03/Capital-grille-Take-Out-Menu.pdf","40th-49th Streets","Restaurant",40.751283,-73.974928,"155 East 42nd Street","Open","Steakhouse","
+","2020-06-24T14:21:37.000Z",
+"Sticky's",1818,"2020-03-31T17:44:00.000Z","(646) 490-5856","https://www.stickys.com/","30th-39th Streets","Restaurant",40.745051,-73.978944,"484 3rd Avenue","Open","American","Find hours here: <https://www.stickys.com/covid-19/>
+","2020-06-24T14:21:37.000Z",
+"Bite",1819,"2020-03-31T19:08:00.000Z","(212) 677-3123","https://www.bitenyc.com/","14th-19th Streets","Restaurant",40.733144,-73.986164,"211 East 14th Street","Open","Sandwich","
+","2020-06-24T14:21:37.000Z",
+"Ess-a-Bagel",1820,"2020-04-01T22:23:00.000Z","(212) 980-1010","https://www.ess-a-bagel.com/","50th - 59th Streets","Restaurant",40.756157,-73.970175,"831 3rd Avenue","Open","Sandwich","
+","2020-06-24T14:21:37.000Z",
+"Hillstone",1821,"2020-04-01T22:28:00.000Z","(212) 888-3828","https://hillstonerestaurant.com/locations/nyc-midtown/","50th - 59th Streets","Restaurant",40.758407,-73.969943,"888 3rd Avenue","Open","American","
+","2020-06-24T14:21:37.000Z",
+"Little Roma Pizza",1822,"2020-04-01T22:31:00.000Z","(212) 813-9300","http://littleromapizzanyc.com/","50th - 59th Streets","Restaurant",40.755928,-73.967445,"982 Second Avenue","Open","Italian","
+","2020-06-24T14:21:37.000Z",
+"Buttercup Bake Shop",1823,"2020-04-01T22:34:00.000Z","(212) 350-4144","https://www.buttercupbakeshop.com/","50th - 59th Streets","Restaurant",40.755953,-73.968091,"973 2nd Avenue","Open","American","
+","2020-06-24T14:21:37.000Z",
+"Libretto's",1824,"2020-04-01T23:38:00.000Z","(212) 213-6445","https://www.librettospizzany.com/","30th-39th Streets","Restaurant",40.747319,-73.977328,"546 3rd Avenue","Open","Italian","
+","2020-06-24T14:21:37.000Z",
+"Patrizia's of Manhattan",1825,"2020-04-02T02:05:00.000Z","(212) 597-9999","https://www.patrizias.com/location/manhattan/#menus/","20th-29th Streets","Restaurant",40.739802,-73.97883,"462-466 2nd Avenue","Open","Italian","
+","2020-06-24T14:21:37.000Z",
+"Poulette",1826,"2020-04-02T20:19:00.000Z","(646) 708-0199","https://poulettenyc.com/pages/locations","40th-49th Streets","Restaurant",40.753938,-73.96864,"304 East 49th Street","Open","French","
+","2020-06-24T14:21:37.000Z",
+"La Vera",1827,"2020-04-04T01:12:00.000Z","(212) 213-2222","http://laverapizzerianyc.com/","20th-29th Streets","Restaurant",40.740665,-73.98215,"350 3rd Avenue","Open","Italian","
+","2020-06-24T14:21:37.000Z",
+"Alcala",1828,"2020-04-04T01:15:00.000Z","(212) 370-1866","alcalanyc.com","40th-49th Streets","Restaurant",40.75114,-73.971815,"246 East 44th Street","Open","Spanish","
+","2020-06-24T14:21:37.000Z",
+"Asiam Thai Cuisine",1829,"2020-04-06T13:37:00.000Z","212-228-7880, 212-228-7833","http://www.asiamny.com/","14th-19th Streets","Restaurant",40.732249,-73.982291,"259 1st Avenue","Open","Thai","
+","2020-06-24T14:21:37.000Z",
+"Bagel Boss",1830,"2020-04-06T13:39:00.000Z","(212) 388-9292","https://www.bagelboss.com/","14th-19th Streets","Restaurant",40.732361,-73.982175,"263 1st Avenue","Open","Sandwich","
+","2020-06-24T14:21:37.000Z",
+"Bagel Boss",1831,"2020-04-06T13:42:00.000Z","(646) 368-1880 or (646) 368-1640","https://www.bagelboss.com/","30th-39th Streets","Restaurant",40.747271,-73.977363,"544 3rd Avenue","Open","Sandwich","
+","2020-06-24T14:21:37.000Z",
+"Cooper Town Diner",1832,"2020-04-06T13:44:00.000Z","(732) 641-8306","https://menupages.com/coopertown-diner/339-1st-ave-new-york","14th-19th Streets","Restaurant",40.734926,-73.980339,"339 1st Avenue","Open","American","
+","2020-06-24T14:21:37.000Z",
+"Tal Bagels",1833,"2020-04-06T13:44:00.000Z","(212) 387-3100","https://www.talbagelsny.com/","20th-29th Streets","Restaurant",40.735615,-73.979852,"357 1st Avenue","Open","American","
+","2020-06-24T14:21:37.000Z",
+"Ess-a-Bagel",1834,"2020-04-06T13:54:00.000Z","(212) 387-3100","https://essabagel.com/","14th-19th Streets","Restaurant",40.734089,-73.980127,"324 1st Avenue","Open","Sandwich","
+","2020-06-24T14:21:37.000Z",
+"Orion Diner and Grill",1835,"2020-04-06T13:58:00.000Z","(212) 510-8733","https://www.oriondiner.com/","20th-29th Streets","Restaurant",40.737836,-73.981304,"395 2nd Avenue","Open","American","
+","2020-06-24T14:21:37.000Z",
+"Posto",1836,"2020-04-06T14:02:00.000Z","(212) 716-1200","https://www.nycthincrust.com/location/posto-thin-crust/","14th-19th Streets","Restaurant",40.73483,-73.982804,"310 2nd Avenue","Open","Italian","
+","2020-06-24T14:21:37.000Z",
+"Gramercy Kitchen",1837,"2020-04-06T14:09:00.000Z","(917) 265-8884","https://www.gramercykitchen.nyc/","14th-19th Streets","Restaurant",40.735216,-73.98612,"184 3rd Avenue","Open","American","
+","2020-06-24T14:21:37.000Z",
+"Lamarca",1838,"2020-04-06T14:11:00.000Z","(212) 674-6363","https://menupages.com/lamarca/161-e-22nd-st-new-york","20th-29th Streets","Restaurant",40.738381,-73.983833,"161 East 22nd Street","Open","Italian","
+","2020-06-24T14:21:37.000Z",
+"Barfly",1839,"2020-04-06T14:12:00.000Z","(212)-473-9660","https://barflyny.com/","20th-29th Streets","Restaurant",40.737197,-73.984694,"244 3rd Avenue","Open","American","
+","2020-06-24T14:21:37.000Z",
+"Lunetta Pizza",1840,"2020-04-06T14:14:00.000Z","(212) 432-5200","http://lunettanyc.com/","20th-29th Streets","Restaurant",40.736944,-73.984164,"245 3rd Avenue","Open","Italian","
+","2020-06-24T14:21:37.000Z",
+"Taqueria Gramercy",1841,"2020-04-06T14:17:00.000Z","(862) 304-4547","https://www.seamless.com/menu/taqueria-gramercy-218-3rd-ave-new-york/965443?utm_source=google&utm_medium=cpc&utm_campaign=New%2BYork%2C%2BNY%2B%7C%2BNew%2BYork%2C%2BNY%2B%7C%2BRestaurants&utm_term=%2Btaqueria%20%2Bgramercy&efkwid=533492468061&gclid=EAIaIQobChMIw_qC5_zT6AIVBqSzCh2yUA60EAAYASAAEgIVCPD_BwE&gclsrc=aw.ds","14th-19th Streets","Restaurant",40.736292,-73.985316,"218 3rd Avenue","Open","Mexican","
+","2020-06-24T14:21:37.000Z",
+"Gramercy Bagels",1842,"2020-04-06T14:17:00.000Z","(212) 388-0080","https://gramercybagel.com/","20th-29th Streets","Restaurant",40.737197,-73.984694,"246 3rd Avenue","Open","Sandwich","
+","2020-06-24T14:21:37.000Z",
+"Jack's Sliders and Sushi",1843,"2020-04-06T14:26:00.000Z","(212) 466-2828","https://www.jacksny.com/","14th-19th Streets","Restaurant",40.734717,-73.985843,"171 3rd Avenue","Open","Sushi","12 PM-7:30 PM Daily
+","2020-06-24T14:21:37.000Z",
+"Sunburst Espresso Bar",1844,"2020-04-06T14:28:00.000Z","(212) 674-1702","https://www.sunburstespressobar.com/","14th-19th Streets","Restaurant",40.736087,-73.985554,"206 3rd Avenue","Open","American","
+","2020-06-24T14:21:37.000Z",
+"Tivoli Cafe",1845,"2020-04-06T14:30:00.000Z","(212) 933-0629","https://www.tivolicafenyc.com/","20th-29th Streets","Restaurant",40.738168,-73.983345,"283 3rd Avenue","Open","American","7 AM-11:30 PM Daily
+","2020-06-24T14:21:37.000Z",
+"BKK Eatery",1846,"2020-04-06T14:48:00.000Z","(212) 213-3317","https://www.bkkeaterynyc.com/","30th-39th Streets","Restaurant",40.746004,-73.979503,"138 East 34th Street","Open","Thai","
+","2020-06-24T14:21:37.000Z",
+"Bravest",1847,"2020-04-06T14:50:00.000Z","(212) 683-3766","http://www.thebravestnyc.com/","30th-39th Streets","Restaurant",40.747075,-73.973848,"700 2nd Avenue","Open","American","
+","2020-06-24T14:21:37.000Z",
+"Duke's",1848,"2020-04-06T14:54:00.000Z","(212) 949-5400","https://www.dukesnyc.com/location/murray-hill/","30th-39th Streets","Restaurant",40.748073,-73.976835,"560 3rd Avenue","Open","American","
+","2020-06-24T14:21:37.000Z",
+"Daniel's Bagel",1849,"2020-04-06T14:56:00.000Z","(212) 972-9733","https://danielsbagelsnyc.com/41052","30th-39th Streets","Restaurant",40.74784,-73.976229,"569 3rd Avenue","Open","Sandwich","
+","2020-06-24T14:21:37.000Z",
+"Hill and Bay",1850,"2020-04-06T15:00:00.000Z","(212) 245-5554","https://www.hillandbay.com/","30th-39th Streets","Restaurant",40.74351,-73.977173,"581 2nd Avenue","Open","American","
+","2020-06-24T14:21:37.000Z",
+"Jackson Hole",1851,"2020-04-06T15:02:00.000Z","(212) 679-3264","https://jacksonholeburgers.com/","30th-39th Streets","Restaurant",40.746144,-73.977485,"521 3rd Avenue","Open","American","
+","2020-06-24T14:21:37.000Z",
+"Little Alley",1852,"2020-04-06T15:05:00.000Z","(646) 998-3976","https://www.littlealley.nyc/","30th-39th Streets","Restaurant",40.747425,-73.977251,"550 3rd Avenue","Open","Shanghainese","
+","2020-06-24T14:21:37.000Z",
+"Sarge's Deli and Diner",1853,"2020-04-06T15:07:00.000Z","(212) 679-0442","https://sargesdeli.com/","30th-39th Streets","Restaurant",40.74737,-73.977291,"548 3rd Avenue","Open","American","12 PM-8 PM Daily
+","2020-06-24T14:21:37.000Z",
+"Sophie's Cuban Cuisine",1854,"2020-04-06T15:12:00.000Z","(212) 922-3576","https://www.sophiescuban.com/","40th-49th Streets","Restaurant",40.750447,-73.976425,"369 Lexington Avenue","Open","Cuban","
+","2020-06-24T14:21:37.000Z",
+"Sophra Grill",1855,"2020-04-06T15:14:00.000Z","(646) 609-2392","https://www.sophragrill.com/","30th-39th Streets","Restaurant",40.746584,-73.977051,"535 3rd Avenue","Open","Mediterranean","
+","2020-06-24T14:21:37.000Z",
+"Tara Rose",1856,"2020-04-06T15:17:00.000Z","(347) 265-6855","https://tararosenyc.com/","20th-29th Streets","Restaurant",40.741831,-73.981402,"384 3rd Avenue","Open","American","
+","2020-06-24T14:21:37.000Z",
+"Tenho Ramen",1857,"2020-04-06T15:20:00.000Z","(646) 781-9025","https://tenhoramen.com/","30th-39th Streets","Restaurant",40.747224,-73.977398,"542 3rd Avenue","Open","Japanese","
+","2020-06-24T14:21:37.000Z",
+"Wattle Cafe",1858,"2020-04-06T15:22:00.000Z","(646) 918-7042","https://www.wattlecafe.com/?gclid=EAIaIQobChMI1qbrso3U6AIViZ6zCh1IaQeLEAAYASAAEgLh9vD_BwE","30th-39th Streets","Restaurant",40.745077,-73.978297,"489 3rd Avenue","Open","Australian","
+","2020-06-24T14:21:37.000Z",
+"Tudor City Steakhouse",1859,"2020-04-07T18:27:00.000Z"," The Arsenal, Central Park, 830 Fifth Avenue, New York, NY 10065","http://tudorcitysteakhouse.com/","40th-49th Streets","Restaurant",40.749314,-73.969982,"45 Tudor City Place","Open","Steakhouse","5-9 PM Daily
+","2020-06-24T14:21:37.000Z",
+"Baby Bo's Cantina",1860,"2020-04-08T16:57:00.000Z","(212) 779-2656","http://babyboscantina.com/","30th-39th Streets","Restaurant",40.745134,-73.975985,"627 Second Avenue","Open","Mexican","
+","2020-06-24T14:21:37.000Z",
+"Gemini Diner",1861,"2020-04-08T17:31:00.000Z","(212) 532-2143","https://geminidiner.com/","30th-39th Streets","Restaurant",40.745443,-73.975759,"641 2nd Avenue","Open","American","7 AM-11:30 PM
+","2020-06-24T14:21:37.000Z",
+"Pastafina's",1862,"2020-04-08T21:58:00.000Z","(212) 251-0708","https://orderpastafinapizzany.com/","20th-29th Streets","Restaurant",40.741905,-73.981209,"388 3rd Avenue","Open","Italian","
+","2020-06-24T14:21:37.000Z",
+"First Avenue Veterinary Hospital",1863,"2020-04-10T14:35:00.000Z","(212) 674-0111","https://www.firstavenuevet.com/","14th-19th Streets","Pets",40.735434,-73.980011,"355 1st Avenue","Open",,"
+","2020-06-24T14:21:37.000Z",
+"KMP Market",1864,"2020-04-10T14:40:00.000Z","(212) 673-2430",,"14th-19th Streets","Restaurant",40.732592,-73.98204,"275 1st Avenue","Open","Deli","
+","2020-06-24T14:21:37.000Z",
+"A's Organic Cleaners",1865,"2020-04-10T15:33:00.000Z","(212) 475-0852",,"14th-19th Streets","Dry Cleaning",40.73243,-73.982125,"265 1st Avenue","Open",,"
+","2020-06-24T14:21:37.000Z",
+"Berkely Sutton Cleaners",1866,"2020-04-10T15:49:00.000Z","(212) 505-5557","https://www.berkelysutton.com/?gclid=EAIaIQobChMIr53g3Jre6AIVARgMCh1g4wohEAAYASAAEgJhV_D_BwE","14th-19th Streets","Dry Cleaning",40.734511,-73.979623,"334 1st Avenue","Open",,"
+","2020-06-24T14:21:37.000Z",
+"Esquire Pharmacy",1867,"2020-04-10T15:51:00.000Z","(212) 228-2260",,"14th-19th Streets","Pharmacy",40.732633,-73.981985,"277 1st Avenue","Open",,"
+","2020-06-24T14:21:37.000Z",
+"Gracefully",1868,"2020-04-10T15:53:00.000Z","(212) 260-1010",,"14th-19th Streets","Restaurant",40.734089,-73.980127,"320 1st Avenue","Open","Grocery","
+","2020-06-24T14:21:37.000Z",
+"Laundry Land",1869,"2020-04-10T15:54:00.000Z",,,"14th-19th Streets","Laundry",40.734366,-73.980663,"325 1st Avenue","Open",,,"2020-06-24T14:21:37.000Z",
+"Rite-Way Drugs",1870,"2020-04-10T15:55:00.000Z","(212) 777-6864","http://www.ritewaydrugs.com/","20th-29th Streets","Pharmacy",40.736044,-73.979466,"369 1st Avenue","Open",,"
+","2020-06-24T14:21:37.000Z",
+"C&S Mart",1871,"2020-04-10T15:59:00.000Z","(212) 375-0214",,"20th-29th Streets","Restaurant",40.736195,-73.979457,"373 1st Avenue","Open","Bodega/Convenience Store","
+","2020-06-24T14:21:37.000Z",
+"ProHealth Pharmacy",1872,"2020-04-10T17:33:00.000Z","(212) 684-8300","http://prohealthny.com/","20th-29th Streets","Pharmacy",40.737645,-73.981792,"385 2nd Avenue","Open",,"
+","2020-06-24T14:21:37.000Z",
+"Dreamland Deli",1873,"2020-04-10T17:36:00.000Z",,,"14th-19th Streets","Restaurant",40.735408,-73.983081,"325 2nd Avenue","Open","Deli",,"2020-06-24T14:21:37.000Z",
+"Gramercy Food Market",1874,"2020-04-10T17:38:00.000Z","(212) 777-2808",,"20th-29th Streets","Restaurant",40.737218,-73.980897,"384 2nd Avenue","Open","Deli","
+","2020-06-24T14:21:37.000Z",
+"Alpine Cleaners",1875,"2020-04-10T17:45:00.000Z","(212) 533-2865",,"14th-19th Streets","Dry Cleaning",40.736017,-73.984787,"205 3rd Avenue","Open",,"
+","2020-06-24T14:21:37.000Z",
+"Carelabel",1876,"2020-04-10T17:48:00.000Z","(212) 674-7030",,"14th-19th Streets","Dry Cleaning",40.736087,-73.985554,"212A 3rd Avenue","Open",,"
+","2020-06-24T14:21:37.000Z",
+"Warshaw Hardware",1877,"2020-04-10T17:51:00.000Z","(212) 475-5820","https://www.warshawhardware.com/","20th-29th Streets","Hardware",40.737283,-73.984612,"248 3rd Avenue","Open",,"
+","2020-06-24T14:21:37.000Z",
+"Danny 2 Cleaners",1878,"2020-04-10T17:51:00.000Z","(212) 777-3505",,"14th-19th Streets","Dry Cleaning",40.735046,-73.986313,"174 3rd Avenue","Open",,"
+","2020-06-24T14:21:37.000Z",
+"West Side Market",1879,"2020-04-10T17:56:00.000Z","(212) 254-0017","https://www.wmarketnyc.com/180-third-avenue/","14th-19th Streets","Restaurant",40.735046,-73.986313,"180 3rd Avenue","Open","Grocery","
+","2020-06-24T14:21:37.000Z",
+"Canis Minor",1880,"2020-04-10T18:14:00.000Z","(212) 228-4848",,"14th-19th Streets","Pets",40.736836,-73.984947,"238 3rd Avenue","Open",,"
+","2020-06-24T14:21:37.000Z",
+"Chips Cleaners",1881,"2020-04-10T18:16:00.000Z","(212) 473-3713",,"14th-19th Streets","Dry Cleaning",40.734316,-73.986057,"159 3rd Avenue","Open",,"
+","2020-06-24T14:21:37.000Z",
+"David's Pharmacy",1882,"2020-04-10T18:17:00.000Z","(212) 477-7788",,"14th-19th Streets","Pharmacy",40.736017,-73.984787,"205 3rd Avenue","Open",,"
+","2020-06-24T14:21:37.000Z",
+"East Way Gourmet",1883,"2020-04-10T18:18:00.000Z","(212) 260-3859",,"14th-19th Streets","Restaurant",40.734632,-73.985869,"169 3rd Avenue","Open","Grocery","
+","2020-06-24T14:21:37.000Z",
+"Namu Deli & Grocery",1884,"2020-04-10T18:20:00.000Z","(212) 228-9406",,"20th-29th Streets","Restaurant",40.737397,-73.98455,"252 3rd Avenue","Open","Deli","
+","2020-06-24T14:21:37.000Z",
+"Prestige II Laundry",1885,"2020-04-10T18:21:00.000Z","(646) 654-6913",,"14th-19th Streets","Laundry",40.734113,-73.981077,"351 East 18th Street","Open",,"
+","2020-06-24T14:21:37.000Z",
+"Kalvig & Shorter Veterinary Associates",1886,"2020-04-10T18:41:00.000Z",,"http://www.kalvigandshorter.com/","30th-39th Streets","Pets",40.74953,-73.976907,"133 East 39th Street","Open",,,"2020-06-24T14:21:37.000Z",
+"Pasteur Pharmacy",1887,"2020-04-10T18:42:00.000Z","(212) 683-3838","https://pasteurshaving.com/","30th-39th Streets","Pharmacy",40.747616,-73.981929,"53 East 34th Street","Open",,"
+","2020-06-24T14:21:37.000Z",
+"Park Avenue Tavern",1888,"2020-04-11T17:00:00.000Z","(212) 867-4484","https://parkavenuetavern.com/","30th-39th Streets","Restaurant",40.75036,-73.978439,"99 Park Avenue","Open","American","
+","2020-06-24T14:21:37.000Z",
+"Madison Restaurant",1889,"2020-04-16T01:00:00.000Z","(212) 421-0948","https://www.madison1.com/","50th - 59th Streets","Restaurant",40.756084,-73.965118,"965 1st Avenue","Open","American","
+","2020-06-24T14:21:37.000Z",
+"Health Source",1890,"2020-04-22T15:42:00.000Z","(212) 310-0111","http://www.healthsourcepharmacy.com/index.php","50th - 59th Streets","Pharmacy",40.756692,-73.963722,"1000 1st Avenue","Open",,"Mon-Fri 8:30-8, Sat 10-7, Sun 11-6. Pharmacy is open 9 to 6 weekdays now, and 10 to 2 on Saturdays.
+","2020-06-24T14:21:37.000Z","They have expanded their free delivery services, and in addition to prescription they are delivering groceries, over the counter medications, and various sundries that includes disinfectants.
 "
-"Amish Market",1891,"(212) 370-1761","http://eastamish.com/","40th-49th Streets","Restaurant",40.751823,-73.97147,"240 East 45th St.","Open","Grocery","
-","2020-06-24T14:21:37.000Z","2020-04-23T00:18:00.000Z",
-"Clairmont Nichols Opticians",1892,"(212) 758-2346","https://www.clairmontnichols.com/","50th - 59th Streets","Eye Care",40.7571,-73.963086,"1016 1st Avenue","Open",,"
-","2020-06-24T14:21:37.000Z","2020-04-24T13:43:00.000Z","Still providing telehealth consultations through phone calls and video-telephone for eye-related issues. People can also still order contact lenses at this time.
+"Amish Market",1891,"2020-04-23T00:18:00.000Z","(212) 370-1761","http://eastamish.com/","40th-49th Streets","Restaurant",40.751823,-73.97147,"240 East 45th St.","Open","Grocery","
+","2020-06-24T14:21:37.000Z",
+"Clairmont Nichols Opticians",1892,"2020-04-24T13:43:00.000Z","(212) 758-2346","https://www.clairmontnichols.com/","50th - 59th Streets","Eye Care",40.7571,-73.963086,"1016 1st Avenue","Open",,"
+","2020-06-24T14:21:37.000Z","Still providing telehealth consultations through phone calls and video-telephone for eye-related issues. People can also still order contact lenses at this time.
 "
-"Waterfront Ale House",1893,"(212) 696-4104","https://www.waterfrontalehouse.com/","20th-29th Streets","Restaurant",40.742047,-73.977508,"540 2nd Ave","Open","American/Irish","Open Noon-8:00pm daily, Pick up Orders Only
-","2020-06-24T14:21:37.000Z","2020-04-24T23:32:00.000Z",
-"Abumi Sushi",1894,"(212) 532-8783","https://www.abumisushi.com/","20th-29th Streets","Restaurant",40.740936,-73.980944,"209 E 26th Street","Open","Japanese","
-","2020-06-24T14:21:37.000Z","2020-04-24T23:37:00.000Z",
-"Health Nuts",1895,"(212) 490-2979","http://www.manhattanhealthfoodstore.com/contact/","40th-49th Streets","Restaurant",40.751505,-73.971379,"835 Second Avenue","Open","Grocery","
-","2020-06-24T14:21:37.000Z","2020-04-30T00:01:00.000Z",
-"Sutton Place Physical and Aquatic Therapy",1896,"(212) 317-1600","https://www.suttonplacept.com/","50th - 59th Streets","Physical Care",40.758186,-73.96416,"333 East 56th Street","Open","Physical Therapy","
-","2020-06-24T14:21:37.000Z","2020-04-30T14:07:00.000Z","They are offering Physical Therapy appointments at their East 56th Street clinic and in your home via Virtual PT.
+"Waterfront Ale House",1893,"2020-04-24T23:32:00.000Z","(212) 696-4104","https://www.waterfrontalehouse.com/","20th-29th Streets","Restaurant",40.742047,-73.977508,"540 2nd Ave","Open","American/Irish","Open Noon-8:00pm daily, Pick up Orders Only
+","2020-06-24T14:21:37.000Z",
+"Abumi Sushi",1894,"2020-04-24T23:37:00.000Z","(212) 532-8783","https://www.abumisushi.com/","20th-29th Streets","Restaurant",40.740936,-73.980944,"209 E 26th Street","Open","Japanese","
+","2020-06-24T14:21:37.000Z",
+"Health Nuts",1895,"2020-04-30T00:01:00.000Z","(212) 490-2979","http://www.manhattanhealthfoodstore.com/contact/","40th-49th Streets","Restaurant",40.751505,-73.971379,"835 Second Avenue","Open","Grocery","
+","2020-06-24T14:21:37.000Z",
+"Sutton Place Physical and Aquatic Therapy",1896,"2020-04-30T14:07:00.000Z","(212) 317-1600","https://www.suttonplacept.com/","50th - 59th Streets","Physical Care",40.758186,-73.96416,"333 East 56th Street","Open","Physical Therapy","
+","2020-06-24T14:21:37.000Z","They are offering Physical Therapy appointments at their East 56th Street clinic and in your home via Virtual PT.
 "
-"Under the Bridge",1897,"(212) 583-0695","https://underthebridgeny.com/","50th - 59th Streets","Restaurant",40.759638,-73.962333,"1079 1st Avenue","Open","Greek","Food & Catering 11 am to 10:30 pm
-","2020-06-24T14:21:37.000Z","2020-04-30T17:23:00.000Z",
-"Patsy’s ",1898,"(212) 878-9600","http://www.patsyspizzeria.us/2nd-ave.html","40th-49th Streets","Restaurant",40.750417,-73.972133,"801 Second Av","Open","Italian","
-","2020-06-24T14:21:37.000Z","2020-05-01T22:37:00.000Z",
-"Handcraft Kitchen & Cocktails",1899,"(212) 689-3000","https://www.handcraftnyc.com/","20th-29th Streets","Restaurant",40.740936,-73.980944,"367 3rd Avenue","Open","American","
-","2020-06-24T14:21:37.000Z","2020-05-02T23:40:00.000Z",
-"City Eats",1900,"(917)-675-6033","https://www.cityeatsnyc.com/","50th - 59th Streets","Restaurant",40.757415,-73.966329,"1026 2nd Ave","Open","American","
-","2020-06-24T14:21:37.000Z","2020-05-07T18:08:00.000Z",
-"Eastway Gourmet",1901,"(212) 260-3859",,"14th-19th Streets","Restaurant",40.734632,-73.985869,"169 3rd Ave","Open","Deli","
-","2020-06-24T14:21:37.000Z","2020-05-07T19:24:00.000Z","Do NOT believe the Grubhub or Delivery.com web pages for them.  They are OPEN.  Ask for Mike or Raphie.  Good people. 
+"Under the Bridge",1897,"2020-04-30T17:23:00.000Z","(212) 583-0695","https://underthebridgeny.com/","50th - 59th Streets","Restaurant",40.759638,-73.962333,"1079 1st Avenue","Open","Greek","Food & Catering 11 am to 10:30 pm
+","2020-06-24T14:21:37.000Z",
+"Patsy’s ",1898,"2020-05-01T22:37:00.000Z","(212) 878-9600","http://www.patsyspizzeria.us/2nd-ave.html","40th-49th Streets","Restaurant",40.750417,-73.972133,"801 Second Av","Open","Italian","
+","2020-06-24T14:21:37.000Z",
+"Handcraft Kitchen & Cocktails",1899,"2020-05-02T23:40:00.000Z","(212) 689-3000","https://www.handcraftnyc.com/","20th-29th Streets","Restaurant",40.740936,-73.980944,"367 3rd Avenue","Open","American","
+","2020-06-24T14:21:37.000Z",
+"City Eats",1900,"2020-05-07T18:08:00.000Z","(917)-675-6033","https://www.cityeatsnyc.com/","50th - 59th Streets","Restaurant",40.757415,-73.966329,"1026 2nd Ave","Open","American","
+","2020-06-24T14:21:37.000Z",
+"Eastway Gourmet",1901,"2020-05-07T19:24:00.000Z","(212) 260-3859",,"14th-19th Streets","Restaurant",40.734632,-73.985869,"169 3rd Ave","Open","Deli","
+","2020-06-24T14:21:37.000Z","Do NOT believe the Grubhub or Delivery.com web pages for them.  They are OPEN.  Ask for Mike or Raphie.  Good people. 
 "
-"The Shadmoor",1902,"(212) 385-9195","https://www.shadmoornyc.com/","50th - 59th Streets","Restaurant",40.758614,-73.965448,"1066 2nd Avenue","Open","Seafood","
-","2020-06-24T14:21:37.000Z","2020-05-08T18:49:00.000Z",
-"Caremount Medical P.C.",1903,"(212) 726-7400","https://www.caremountmedical.com/","30th-39th Streets","Medical",40.744632,-73.974831,"317 East 34th Street","Open",,"
-","2020-06-24T14:21:37.000Z","2020-05-13T16:06:00.000Z","They offer telehealth and in-person visits (by appointment). They offer COVID-19 tests, both diagnostic and antibody.
+"The Shadmoor",1902,"2020-05-08T18:49:00.000Z","(212) 385-9195","https://www.shadmoornyc.com/","50th - 59th Streets","Restaurant",40.758614,-73.965448,"1066 2nd Avenue","Open","Seafood","
+","2020-06-24T14:21:37.000Z",
+"Caremount Medical P.C.",1903,"2020-05-13T16:06:00.000Z","(212) 726-7400","https://www.caremountmedical.com/","30th-39th Streets","Medical",40.744632,-73.974831,"317 East 34th Street","Open",,"
+","2020-06-24T14:21:37.000Z","They offer telehealth and in-person visits (by appointment). They offer COVID-19 tests, both diagnostic and antibody.
 "
-"Galleria on Third",1904,"212-683-2886 or 212-683-4280","https://www.galleriaonthird.com/","30th-39th Streets","Art",40.746404,-73.97722,"529 3rd Avenue","Open",,"
-","2020-06-24T14:21:37.000Z","2020-05-13T16:11:00.000Z","Custom framing, artworks, gifts, gift cards. Call for appointment or make appointment online, galleriaonthird.com.
+"Galleria on Third",1904,"2020-05-13T16:11:00.000Z","212-683-2886 or 212-683-4280","https://www.galleriaonthird.com/","30th-39th Streets","Art",40.746404,-73.97722,"529 3rd Avenue","Open",,"
+","2020-06-24T14:21:37.000Z","Custom framing, artworks, gifts, gift cards. Call for appointment or make appointment online, galleriaonthird.com.
 "
-"Tournesol Wellness",1905,"(646) 395-1114","https://www.tournesolwellness.com/","30th-39th Streets","Medical",40.748791,-73.981838,"26 East 36th Street","Open",,"
-","2020-06-24T14:21:37.000Z","2020-05-13T16:13:00.000Z","Tournesol is offering online sessions (at discounted prices), make an appointment at [tournesolwellness.com/request-an-appointment][1].
+"Tournesol Wellness",1905,"2020-05-13T16:13:00.000Z","(646) 395-1114","https://www.tournesolwellness.com/","30th-39th Streets","Medical",40.748791,-73.981838,"26 East 36th Street","Open",,"
+","2020-06-24T14:21:37.000Z","Tournesol is offering online sessions (at discounted prices), make an appointment at [tournesolwellness.com/request-an-appointment][1].
 
   [1]: http://tournesolwellness.com/request-an-appointment
 "
-"Coppola's East",1906,"(212) 679-0070","coppolas-nyc.com","20th-29th Streets","Restaurant",40.741655,-73.981538,"378 3rd Avenue","Open","Italian","
-","2020-06-24T14:21:37.000Z","2020-05-13T16:16:00.000Z",
-"Galata Mediterranean Cuisine",1907,"(212) 683-9206","galatany.com","30th-39th Streets","Restaurant",40.745227,-73.977584,"212 East 34th Street","Open","Turkish","
-","2020-06-24T14:21:37.000Z","2020-05-13T16:17:00.000Z","Store is closed for pickup but open for deliveries.
+"Coppola's East",1906,"2020-05-13T16:16:00.000Z","(212) 679-0070","coppolas-nyc.com","20th-29th Streets","Restaurant",40.741655,-73.981538,"378 3rd Avenue","Open","Italian","
+","2020-06-24T14:21:37.000Z",
+"Galata Mediterranean Cuisine",1907,"2020-05-13T16:17:00.000Z","(212) 683-9206","galatany.com","30th-39th Streets","Restaurant",40.745227,-73.977584,"212 East 34th Street","Open","Turkish","
+","2020-06-24T14:21:37.000Z","Store is closed for pickup but open for deliveries.
 "
-"Great Sichuan",1908,"(212) 686-8866","https://greatsichuannyc.net/","20th-29th Streets","Restaurant",40.740814,-73.981274,"363 3rd Avenue","Open","Chinese","
-","2020-06-24T14:21:37.000Z","2020-05-13T16:24:00.000Z",
-"Kajitsu",1909,"(212) 228-4873","http://kajitsunyc.com/","30th-39th Streets","Restaurant",40.749895,-73.97769,"125 East 39th Street","Open","Japanese","
-","2020-06-24T14:21:37.000Z","2020-05-13T16:27:00.000Z","Open for delivery through Caviar [trycaviar.com/m/kajitsu-21137][1] as well as pickup at the restaurant.
+"Great Sichuan",1908,"2020-05-13T16:24:00.000Z","(212) 686-8866","https://greatsichuannyc.net/","20th-29th Streets","Restaurant",40.740814,-73.981274,"363 3rd Avenue","Open","Chinese","
+","2020-06-24T14:21:37.000Z",
+"Kajitsu",1909,"2020-05-13T16:27:00.000Z","(212) 228-4873","http://kajitsunyc.com/","30th-39th Streets","Restaurant",40.749895,-73.97769,"125 East 39th Street","Open","Japanese","
+","2020-06-24T14:21:37.000Z","Open for delivery through Caviar [trycaviar.com/m/kajitsu-21137][1] as well as pickup at the restaurant.
 
   [1]: http://trycaviar.com/m/kajitsu-21137
 "
-"Previti Pizza and Pasta",1910,"(212) 867-2782","http://previtipastapizza.com/","30th-39th Streets","Restaurant",40.749692,-73.97703,"341 Lexington Ave","Open","Pizza","
-","2020-06-24T14:21:37.000Z","2020-05-13T16:33:00.000Z",
-"Chelsea Bagel",1911,"(212) 462-2435","https://www.chelseabagel.com/","40th-49th Streets","Restaurant",40.750062,-73.971658,"800 Second Avenue","Open","American","
-","2020-06-24T14:21:37.000Z","2020-05-13T16:40:00.000Z","just reopened today
+"Previti Pizza and Pasta",1910,"2020-05-13T16:33:00.000Z","(212) 867-2782","http://previtipastapizza.com/","30th-39th Streets","Restaurant",40.749692,-73.97703,"341 Lexington Ave","Open","Pizza","
+","2020-06-24T14:21:37.000Z",
+"Chelsea Bagel",1911,"2020-05-13T16:40:00.000Z","(212) 462-2435","https://www.chelseabagel.com/","40th-49th Streets","Restaurant",40.750062,-73.971658,"800 Second Avenue","Open","American","
+","2020-06-24T14:21:37.000Z","just reopened today
 "
-"Olympia Deli",1912,"(212) 462-2435","http://places.singleplatform.com/cafe-olympia/menu","40th-49th Streets","Restaurant",40.751505,-73.971379,"833 2nd Avenue","Open","American","
-","2020-06-24T14:21:37.000Z","2020-05-13T16:45:00.000Z","Very large and well stocked Deli, open 24 hours. Was closed since mid-March and just reopened today.  
+"Olympia Deli",1912,"2020-05-13T16:45:00.000Z","(212) 462-2435","http://places.singleplatform.com/cafe-olympia/menu","40th-49th Streets","Restaurant",40.751505,-73.971379,"833 2nd Avenue","Open","American","
+","2020-06-24T14:21:37.000Z","Very large and well stocked Deli, open 24 hours. Was closed since mid-March and just reopened today.  
 "
-"Ratatouille",1913,"(212) 922-0505","ratatouillenyc.com","30th-39th Streets","Restaurant",40.748933,-73.97636,"154 East 39th Street","Open","French","
-","2020-06-24T14:21:37.000Z","2020-05-13T16:59:00.000Z",
-"Sahara's Turkish Cuisine",1914,"(212) 523-7589","https://www.saharamanhattan.com/","20th-29th Streets","Restaurant",40.741462,-73.978616,"513 2nd Avenue","Open","Turkish","
-","2020-06-24T14:21:37.000Z","2020-05-13T17:02:00.000Z",
-"Turkish Kitchen",1915,"(212) 679-6633","https://www.turkishkitchen.com/","20th-29th Streets","Restaurant",40.74189,-73.98136,"386 Third Avenue","Open","Turkish","
-","2020-06-24T14:21:37.000Z","2020-05-13T17:05:00.000Z",
-"Amma",1916,"(212) 644-8330","https://www.ammanyc.com/",,"Restaurant",40.755582,-73.968718,"246 E 51st St, New York, NY 10022","Open","Indian","
-","2020-06-24T14:21:37.000Z","2020-05-19T21:19:00.000Z","Wonderful selection of vegetarian and meat dishes
+"Ratatouille",1913,"2020-05-13T16:59:00.000Z","(212) 922-0505","ratatouillenyc.com","30th-39th Streets","Restaurant",40.748933,-73.97636,"154 East 39th Street","Open","French","
+","2020-06-24T14:21:37.000Z",
+"Sahara's Turkish Cuisine",1914,"2020-05-13T17:02:00.000Z","(212) 523-7589","https://www.saharamanhattan.com/","20th-29th Streets","Restaurant",40.741462,-73.978616,"513 2nd Avenue","Open","Turkish","
+","2020-06-24T14:21:37.000Z",
+"Turkish Kitchen",1915,"2020-05-13T17:05:00.000Z","(212) 679-6633","https://www.turkishkitchen.com/","20th-29th Streets","Restaurant",40.74189,-73.98136,"386 Third Avenue","Open","Turkish","
+","2020-06-24T14:21:37.000Z",
+"Amma",1916,"2020-05-19T21:19:00.000Z","(212) 644-8330","https://www.ammanyc.com/",,"Restaurant",40.755582,-73.968718,"246 E 51st St, New York, NY 10022","Open","Indian","
+","2020-06-24T14:21:37.000Z","Wonderful selection of vegetarian and meat dishes
 "
-"Oki Poke & Ramen",1917,"(212) 922-1900","https://www.okipokeramen.com/",,"Restaurant",40.753364,-73.97404,"135 East 45th St. ","Open","Japanese","
-","2020-06-24T14:21:37.000Z","2020-05-27T01:11:00.000Z",
-"Halo web Pharmacy ",1918,"(212) 683-0148",,,"Medical",40.737381,-73.979036,"331 East 23rd Street","Open",,"
-","2020-06-24T14:21:37.000Z","2020-06-03T21:31:00.000Z",
-"Socarrat",1919,"(212) 759-0101","https://socarratnyc.com/",,"Restaurant",40.755321,-73.968533,"953 2nd Ave, New York, NY 10022","Open","Spanish","
-","2020-06-24T14:21:37.000Z","2020-06-03T23:34:00.000Z",
-"Ali Baba",1920,"(212) 888-8622","http://www.alibabaturkishcuisine.com",,"Restaurant",40.752359,-73.969993,"862 Second Ave.","Open","Mediterranean","
-","2020-06-24T14:21:37.000Z","2020-06-03T23:37:00.000Z","Turkish is really the cuisine.
+"Oki Poke & Ramen",1917,"2020-05-27T01:11:00.000Z","(212) 922-1900","https://www.okipokeramen.com/",,"Restaurant",40.753364,-73.97404,"135 East 45th St. ","Open","Japanese","
+","2020-06-24T14:21:37.000Z",
+"Halo web Pharmacy ",1918,"2020-06-03T21:31:00.000Z","(212) 683-0148",,,"Medical",40.737381,-73.979036,"331 East 23rd Street","Open",,"
+","2020-06-24T14:21:37.000Z",
+"Socarrat",1919,"2020-06-03T23:34:00.000Z","(212) 759-0101","https://socarratnyc.com/",,"Restaurant",40.755321,-73.968533,"953 2nd Ave, New York, NY 10022","Open","Spanish","
+","2020-06-24T14:21:37.000Z",
+"Ali Baba",1920,"2020-06-03T23:37:00.000Z","(212) 888-8622","http://www.alibabaturkishcuisine.com",,"Restaurant",40.752359,-73.969993,"862 Second Ave.","Open","Mediterranean","
+","2020-06-24T14:21:37.000Z","Turkish is really the cuisine.
 "
-"NY Jumbo Bagels",1921,"12123556185","http://www.nyjumbobagelsny.com/",,"Restaurant",40.758716,-73.965368,"1070 2nd Ave, New York, NY 10022","Open","Deli","
-","2020-06-24T14:21:37.000Z","2020-06-03T23:43:00.000Z",
-"Fitzgerald’s Pub",1922,"(212) 679-6931","http://fitzgeraldspub.nyc",,"Restaurant",40.740115,-73.982583,"336 3rd Avenue ","Open","American,American/Irish","
-","2020-06-24T14:21:37.000Z","2020-06-16T21:54:00.000Z",
+"NY Jumbo Bagels",1921,"2020-06-03T23:43:00.000Z","12123556185","http://www.nyjumbobagelsny.com/",,"Restaurant",40.758716,-73.965368,"1070 2nd Ave, New York, NY 10022","Open","Deli","
+","2020-06-24T14:21:37.000Z",
+"Fitzgerald’s Pub",1922,"2020-06-16T21:54:00.000Z","(212) 679-6931","http://fitzgeraldspub.nyc",,"Restaurant",40.740115,-73.982583,"336 3rd Avenue ","Open","American,American/Irish","
+","2020-06-24T14:21:37.000Z",
