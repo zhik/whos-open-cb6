@@ -3,7 +3,13 @@
     import MaterialIcon from './MaterialIcon.svelte'
 
     let innerWidth
-    let opened = false;
+    let opened = localStorage.getItem('header') === null ? true : JSON.parse(localStorage.getItem('header'));
+
+    function toggleOpen(){
+        //toggle and save to local storage
+        opened = !opened
+        localStorage.setItem('header', opened)
+    }
 
 </script>
 
@@ -15,7 +21,7 @@
             <h3 class="title is-3" id="title">Who's Open CB6</h3>
             <div class="buttons has-text-right">
                 <TranslationMenu className="is-small"/>
-                <button class="button is-small {opened ? 'is-clicked' : ''}" on:click={() => opened = !opened}>
+                <button class="button is-small {opened ? 'is-clicked' : ''}" on:click={toggleOpen}>
                     <MaterialIcon icon="info"></MaterialIcon>
                 </button>
             </div>
@@ -25,6 +31,10 @@
                 <p class="is-6 subtitle"><strong>Directory of Bussiness in Manhattan Community District 6</strong>
                     <br/><br/>We are updating these listings regularly, but please check their Instagram, website, or
                     call for the most current information.</p>
+                <div class="buttons are-small">
+                    <a href="https://airtable.com/shrsHyRioPufGGSpz" target="_blank" class="button is-info">Missing Business or Outdated Info?</a>
+                    <a href="mailto:zhi@beta.nyc" target="_blank" class="button is-info">Submit Feedback</a>
+                </div>
             </div>
         {/if}
     {:else}
@@ -32,7 +42,7 @@
             <h3 class="title is-5">Who's Open CB6</h3>
             <div class="buttons has-text-right">
                 <TranslationMenu className="is-small"/>
-                <button class="button is-small {opened ? 'is-clicked' : ''}" on:click={() => opened = !opened}>
+                <button class="button is-small {opened ? 'is-clicked' : ''}" on:click={toggleOpen}>
                     <MaterialIcon icon="info"></MaterialIcon>
                 </button>
             </div>
@@ -42,6 +52,10 @@
                 <p class="is-6 subtitle"><strong>Directory of Bussiness in Manhattan Community District 6</strong>
                     <br/><br/>We are updating these listings regularly, but please check their Instagram, website, or
                     call for the most current information.</p>
+                <div class="buttons are-small">
+                    <a href="https://airtable.com/shrsHyRioPufGGSpz" target="_blank" class="button is-info">Missing Business or Outdated Info?</a>
+                    <a href="mailto:zhi@beta.nyc" target="_blank" class="button is-info">Submit Feedback</a>
+                </div>
             </div>
         {/if}
     {/if}
